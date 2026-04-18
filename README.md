@@ -75,16 +75,4 @@ Start typing transactions (e.g., "Spent 500 on coffee").
 ```
 Built as a side project by ZayanDev
 ```
-#### 4.
-
-#### 5.
-
-#### 1.
-
-#### 2.
-
-#### 3.
-
-#### 4.
-
 
