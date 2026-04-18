@@ -43,16 +43,8 @@ Project ID in any videos or screenshots.
 ```
 ## 📲 Installation Guide (Android)
 
-### Method 1: Direct APK Install (Recommended)
 
-```
-Go to the Releases section on the GitHub repository.
-Download the .apk file for version v1.0.0-beta.
-Transfer the file to your phone.
-Open the file on your device and allow "Install from unknown
-sources."
-```
-### Method 2: Build from Source
+### Method Build from Source
 
 If you want to modify the code and build it yourself:
 
